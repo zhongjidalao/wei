@@ -32,6 +32,11 @@
   <a href="https://github.com/wei">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-wei&label=visitors&color=grey&style=flat" />
   </a>
+</p>
+<p align="center">
+  <a id="cal-booking-link" data-cal-link="wei/30min" href="https://whe.me?booking">
+    <img src="https://img.shields.io/badge/Book_a_meeting-1a73e8?logo=googlecalendar&logoColor=white&style=flat-square" />
+  </a>
   <a class="drift-open-chat" href="https://whe.me?chat">
     <img src="https://img.shields.io/badge/Chat_now-46955c?logo=googlemessages&logoColor=white&style=flat-square" />
   </a>
