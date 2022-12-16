@@ -30,7 +30,9 @@
     bookingLink.removeAttribute('href');
     Cal("ui", { "styles": { "branding": { "brandColor": "#000000" } } });
     if (window.location.search.indexOf('booking') !== -1) {
-      bookingLink.click();
+      setTimeout(function () {
+        bookingLink.click();
+      }, 500)
     }
   })
 </script>

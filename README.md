@@ -34,7 +34,7 @@
   </a>
 </p>
 <p align="center">
-  <a id="cal-booking-link" data-cal-link="wei/30min" href="https://whe.me/?booking">
+  <a id="cal-booking-link" data-cal-link="wei/meet" href="https://whe.me/?booking">
     <img src="https://img.shields.io/badge/Meet_with_me-1a73e8?logo=googlecalendar&logoColor=white&style=flat-square" />
   </a>
   <a class="drift-open-chat" href="https://whe.me?chat">
