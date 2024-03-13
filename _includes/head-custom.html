@@ -29,7 +29,7 @@
     var bookingLink = document.getElementById('cal-booking-link');
     bookingLink.removeAttribute('href');
     Cal("ui", { "styles": { "branding": { "brandColor": "#000000" } } });
-    if (window.location.search.indexOf('booking') !== -1) {
+    if (window.location.search === '?booking') {
       setTimeout(function () {
         bookingLink.click();
       }, 500)
