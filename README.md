@@ -1,4 +1,4 @@
-![](assets/images/header.png)
+![Wei He](assets/images/header.png)
 
 <p>
   <h1 align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/wei">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wei&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+    <img alt="GitHub Stats" src="https://wei.sh/github-stats.svg" />
   </a>
 </p>
 
